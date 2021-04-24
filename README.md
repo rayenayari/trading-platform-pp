@@ -28,6 +28,7 @@ Currently, we are organized into three subgroups:
 2. Khanh Nguyen
 3. Maxime Lamy
 4. Mamoune Mouchtaki
+5. Rayen Ayari
 
 ### ML Team
 
